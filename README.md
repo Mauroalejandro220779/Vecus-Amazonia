@@ -3,9 +3,11 @@
 # 📊 VECUS: Valoración Económica de Coberturas y Usos del Suelo
 
 [![Socrates Data](https://github.com/user-attachments/assets/06393ce0-b276-4e85-8aca-bdb73f99d4ec)](https://socratesdata.org/)
-[![Power BI Dashboard](https://img.shields.io/badge/📊_Dashboard_Interactivo-Acceder_ahora-red?style=for-the-badge)](https://app.powerbi.com/view?r=eyJrIjoiNjUyNGY1ZjgtMWYyNy00ZDRhLWE1MDEtMjhiZWUyOTk5MTJhIiwidCI6ImZiZThmYzg4LWZhODctNGM2Ni1iMTBjLWJmYTBjN2YyMjlhOSIsImMiOjR9&pageName=0374a3990e6a754ac6c3)
+
 
 **Herramienta modular para estimación de pérdida económica por deforestación en la Amazonia Colombiana a partir de datos de MapBiomas**
+
+[![Power BI Dashboard](https://img.shields.io/badge/📊_Dashboard_Interactivo-red)](https://app.powerbi.com/view?r=eyJrIjoiNjUyNGY1ZjgtMWYyNy00ZDRhLWE1MDEtMjhiZWUyOTk5MTJhIiwidCI6ImZiZThmYzg4LWZhODctNGM2Ni1iMTBjLWJmYTBjN2YyMjlhOSIsImMiOjR9&pageName=0374a3990e6a754ac6c3)
 
 *Proyecto desarrollado en colaboración con [Socrates Data](https://socratesdata.org/)*
 
